@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahirmama
 - 🌱 I’m currently learning development
-- 💞️ I will be a future enterpreneur..
+- 💞️ 
 - 📫 You can reach me through email : tahirmama8@gmail.com
 
 <!---
