@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @Tahirmama
 - 🌱 I’m currently learning development
-- 💞️ 
+- 💞️ SKILSS:
+-         -:HTML
+-         -:CSS
+-         -:JAVASCRIPT
+-         -:REACT JS
+-         -:TYPESCRIPT
+-         -:MS OFFICE (CERTIFIED)
 - 📫 You can reach me through email : tahirmama8@gmail.com
 
 <!---
