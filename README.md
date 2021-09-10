@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Tahirmama
 - 🌱 I’m currently learning development
+- 📫 You can reach me through email : tahirmama8@gmail.com
 - 💞️ SKILSS:
 -         -:HTML
 -         -:CSS
@@ -7,7 +8,7 @@
 -         -:REACT JS
 -         -:TYPESCRIPT
 -         -:MS OFFICE (CERTIFIED)
-- 📫 You can reach me through email : tahirmama8@gmail.com
+
 
 <!---
 Tahirmama/Tahirmama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
