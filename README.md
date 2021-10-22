@@ -6,6 +6,7 @@
 -         -:CSS
 -         -:JAVASCRIPT
 -         -:REACT JS
+-         -:Gatsby
 -         -:TYPESCRIPT
 -         -:MS OFFICE (CERTIFIED)
 
